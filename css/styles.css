@@ -90,13 +90,12 @@ button:hover{
 }
 
 .wizware-logo{
-  vertical-align: top;
   margin-left: 40px;
-  height: 225px;
+  height: 200px;
 }
 
 .humhub-img{
-  height: 400px;
+  height: 300px;
   vertical-align: top;
   margin-top: 30px;
   margin-left: 50px;
@@ -104,7 +103,8 @@ button:hover{
 
 .html-css{
   margin-left: 50px;
-  vertical-align: bottom;
+  vertical-align: top;
+  height: 400px;
 }
 
 .php-image{
@@ -112,7 +112,7 @@ button:hover{
 }
 
 .project-example{
-  height: 450px;
+  height: 400px;
   margin-top: 30px;
   margin-left: 30px;
   vertical-align: bottom;
