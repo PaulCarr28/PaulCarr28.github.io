@@ -31,7 +31,7 @@ p{
 
 .page-title{
   display: inline-block;
-  background-color: gray;
+  background-color: rgb(175, 175, 175);
   border-style: solid;
   border-width: 3px;
   border-color: rgb(0, 0, 0);
@@ -44,7 +44,7 @@ p{
 
 .page-content{
   display: inline-block;
-  background-color: gray;
+  background-color: rgb(175, 175, 175);
   margin-left: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
